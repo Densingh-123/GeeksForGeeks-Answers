@@ -25,11 +25,6 @@ We welcome contributions to expand this repository with more solutions or improv
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/GeeksForGeeks-Solutions.git
-
-
-cd GeeksForGeeks-Solutions/Arrays
-
-
+   git clone https://github.com/Densingh-123/GeeksForGeeks-Solutions.git
 
 This README is designed to make the repository welcoming for contributors while serving as a comprehensive reference for anyone who wants to explore solutions. Let me know if you’d like additional customization!
